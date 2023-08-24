@@ -6,3 +6,23 @@ Step 2: Layout
     
     - In your CSS file, apply Grid properties until you have this basic layout built.
 
+
+
+## Step by Step Breakdown
+[x] Complete SVG icons
+
+[x] searchbar section
+
+[ ] User profile section
+
+[ ] Greetings section
+
+[ ] Controls section
+
+[ ] Main content cards
+
+    [ ] Announcements
+    [ ] Trending
+
+
+## Thoughts on this project
