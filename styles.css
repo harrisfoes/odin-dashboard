@@ -219,7 +219,7 @@ input#searchbar:focus-visible{
 
     display: grid;
     grid-template-columns: 4fr 1.5fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 2fr 3fr;
     gap:16px;
 }
 
@@ -298,7 +298,12 @@ input#searchbar:focus-visible{
 }
 
 /*trending*/
+
 .trending{
+    background: var(--bgray);
+    margin-top:32px;
+}
+.trending-container{
     background: var(--white);
     border-radius:10px;
     padding:16px;
@@ -314,9 +319,9 @@ input#searchbar:focus-visible{
 }
 
 .trending-title{
-    position: absolute;
-    top: 580px;
-    margin-left: 8px;
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-bottom: 12px;
 }
 
 .trending-img{

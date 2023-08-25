@@ -1,11 +1,6 @@
 This is the dashboard project for The Odin Project
 
-Step 2: Layout
-
-    - Start by writing out the HTML elements for the sidebar, header and main-content containers.
-    
-    - In your CSS file, apply Grid properties until you have this basic layout built.
-
+URL:
 
 
 ## Step by Step Breakdown
@@ -13,16 +8,24 @@ Step 2: Layout
 
 [x] searchbar section
 
-[ ] User profile section
+[x] User profile section
 
-[ ] Greetings section
+[x] Greetings section
 
-[ ] Controls section
+[x] Controls section
 
-[ ] Main content cards
+[x] Main content cards
 
-    [ ] Announcements
-    [ ] Trending
+    [x] Your Projects
+    [x] Announcements
+    [x] Trending
 
+[x] Polishing
 
 ## Thoughts on this project
+I got stuck on this project due to the icons and color scheme selection. What happened was that I didn't know how to work with svgs (or that they exist, for that matter). Using images as icons hampered my progress because I haven't decided the color scheme for the project yet. I could have used the original template provided by Odin but I didn't want to :)
+
+Only after I started using svgs for icons did my progress restart, so I lost around 2 weeks due to procrastination.
+I regret that now.
+
+Anyway, this was a fun project all in all but much more complicated than the flexbox one. Looking forward to using both techniques next time.
