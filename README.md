@@ -1,6 +1,6 @@
 This is the dashboard project for The Odin Project
 
-URL:
+URL: https://harrisfoes.github.io/odin-dashboard/
 
 
 ## Step by Step Breakdown
@@ -15,7 +15,6 @@ URL:
 [x] Controls section
 
 [x] Main content cards
-
     [x] Your Projects
     [x] Announcements
     [x] Trending
